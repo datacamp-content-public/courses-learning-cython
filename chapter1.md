@@ -18,7 +18,7 @@ print("hello, PEP8!")
 ```
 
 `@instructions`
-
+In the terminal type `pylint name_of_module.py`
 
 `@hint`
 
@@ -26,6 +26,7 @@ print("hello, PEP8!")
 `@pre_exercise_code`
 ```{python}
 
+  
 ```
 
 `@sample_code`
