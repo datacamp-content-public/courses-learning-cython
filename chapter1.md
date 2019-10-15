@@ -13,7 +13,9 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+__PEP8__ stands for *Python Extension Proposal*. The __PEP8__ are used to improve the readability of Python code. There are two major command line tools that help us write __PEP8__ compatible. ```
+print("hello, PEP8!")
+```
 
 `@instructions`
 
