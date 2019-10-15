@@ -43,3 +43,16 @@ In the terminal type `pylint name_of_module.py`
 ```{python}
 
 ```
+
+---
+
+## Checking PEP8 standards
+
+```yaml
+type: VideoExercise
+key: 3fe8b70f8f
+xp: 50
+```
+
+`@projector_key`
+d8a5ffe7600ce9865d9ef6fbd2fee35a
