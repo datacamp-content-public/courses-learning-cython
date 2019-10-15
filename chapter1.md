@@ -3,7 +3,7 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Checking PEP8 standards with flake8 and pylint
 
 ```yaml
 type: NormalExercise
